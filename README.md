@@ -18,7 +18,7 @@ Open Source Intelligence (OSINT) Tool yang berjalan di **Kali Linux** dan **Term
 
 ### Kali Linux
 ```bash
-git clone <repo-url>
+git clone https://github.com/pandesatyasaputra-beep/tools-osint-v2.git
 cd osint-tool
 chmod +x install.sh
 ./install.sh
@@ -33,7 +33,7 @@ pip install requests phonenumbers colorama whois termcolor
 ### Termux (Android)
 ```bash
 pkg update && pkg install python git
-git clone <repo-url>
+git clone https://github.com/pandesatyasaputra-beep/tools-osint-v2.git
 cd osint-tool
 chmod +x install.sh
 ./install.sh
